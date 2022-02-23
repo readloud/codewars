@@ -1,6 +1,7 @@
 # Codewards
-## https://codewars.com
-### In Codewars, the difficulty rating is as follows:
+## Achieve mastery through challenge
+Improve your development skills by training with your peers using coding challenges
+### In [Codewars](https://codewars.com), the difficulty rating is as follows:
 8: Very Easy  
 7-6: Hmmm  
 4: Difficult  
